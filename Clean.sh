@@ -14,9 +14,9 @@ rm -f fpujaico-eng.dvi
 rm -f fpujaico-eng.tex.backup
 rm -f fpujaico-eng.synctex.gz
 
-rm -f fpujaico-ufla.aux
-rm -f fpujaico-ufla.log
-rm -f fpujaico-ufla.out
-rm -f fpujaico-ufla.dvi
-rm -f fpujaico-ufla.tex.backup
-rm -f fpujaico-ufla.synctex.gz
+rm -f fpujaico-es.aux
+rm -f fpujaico-es.log
+rm -f fpujaico-es.out
+rm -f fpujaico-es.dvi
+rm -f fpujaico-es.tex.backup
+rm -f fpujaico-es.synctex.gz
